@@ -1,6 +1,6 @@
 
 function dis() {
-	alert("ab");
+	// document.write("you are a sb");
 }
 
 function addLoadEvent(func){
